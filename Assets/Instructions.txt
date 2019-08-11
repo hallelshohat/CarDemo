@@ -1,0 +1,14 @@
+*********************************************************
+Player - Orange car:
+*********************************************************
+Controls:
+1. arrow keys or WASD - control the movement of the car
+2. spacebar - brake
+3. Q - blinker left, E - blinker right
+*********************************************************
+There's one car in your lane to pass. 
+Cars are generated randomly in the opposite lane.
+When the lane switch to green - your'e allowed to pass the car.
+After you pass the car - the lane switch to red constantly.
+
+
